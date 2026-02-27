@@ -1,4 +1,4 @@
-# SyncBoard
+<img width="457" height="228" alt="image" src="https://github.com/user-attachments/assets/af6bd7dd-2ff9-41d8-8ed3-f7eeddd8a152" /># SyncBoard
 
 SyncBoard is a real-time collaborative Kanban-style task management application built with a modern full-stack architecture. It enables multiple users to create, organize, and manage tasks across boards with instant synchronization.
 
@@ -121,3 +121,8 @@ The schema is designed to support ordering, multi-tenancy, and scalable collabor
 git clone https://github.com/your-username/syncboard.git
 cd syncboard
 ```
+<img width="1225" height="679" alt="image" src="https://github.com/user-attachments/assets/04041508-6d46-4438-96e3-1965bd2bb72a" />
+<img width="1433" height="803" alt="image" src="https://github.com/user-attachments/assets/9e7bd836-9d87-470c-8cd3-223add89b4ca" />
+<img width="457" height="228" alt="image" src="https://github.com/user-attachments/assets/18680360-797c-4e1d-9c86-aef17dfd3c66" />
+<img width="1054" height="849" alt="image" src="https://github.com/user-attachments/assets/14b2e56b-91b1-433d-adfe-7d584b97134c" />
+<img width="993" height="375" alt="image" src="https://github.com/user-attachments/assets/c200fa4b-bda0-4ba9-8117-a1dd511316ec" />
